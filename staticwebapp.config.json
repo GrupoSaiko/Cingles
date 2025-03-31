@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/",
+            "redirect": "https://cinglesedumx.sharepoint.com/sites/cingles",
+            "statusCode": 301
+        }
+    ]
+}
